@@ -1,2 +1,2 @@
 # Assignments
-Java Practice
+Simplilearn
